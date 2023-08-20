@@ -9,7 +9,7 @@
 ## Hey I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here")](https://arden-dev.netlify.app/)
   
-- © Learning everything based on C
+- © Learning everything based on Python
 - 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
