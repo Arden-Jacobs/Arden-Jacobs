@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Hey I'm
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Developer;Visit+My+Portfolio;Click+Here)](https://arden-dev.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Developer;Visit+My+Portfolio;Click+Here;target="blank")](https://arden-dev.netlify.app/)
   
 - © Learning everything based on C
 - 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
@@ -17,18 +17,14 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 <h3 align="left">Github</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arden-Jacobs&show_icons=true&locale=en&layout=compact" alt="ArdenJacobs" width="50%"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arden-Jacobs&show_icons=true&locale=en&layout=compact" alt="ArdenJacobs" width="38%"/>
-
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://codesandbox.com/https://codepen.io/Arden-Jacobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codepen.io/Arden-Jacobs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arden-jacobs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arden-Grahm-Jacobs" height="30" width="40" /></a>
 <a href="https://discord.gg/arden1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/arden1997" height="30" width="40" /></a>
 </p>
@@ -39,8 +35,6 @@
 <a href="[https://getbootstrap.com](https://www.w3schools.com/c/c_intro.php)" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C Programming" width="40" height="40"/> </a>
 </p>
 <hr>
-
-
 
 <img width="100%" alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
