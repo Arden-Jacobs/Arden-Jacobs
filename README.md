@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Hey I'm
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Developer;Visit+My+Portfolio;Click+Here")](https://arden-dev.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here")](https://arden-dev.netlify.app/)
   
 - © Learning everything based on C
 - 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
