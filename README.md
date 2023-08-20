@@ -13,7 +13,7 @@
 - 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to anime , philosophy and music 🎧.
+- ⚡ Fun fact: I love to listen to podcast on philosophy and business 🎧.
 
 ---
 
