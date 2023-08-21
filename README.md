@@ -22,7 +22,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arden-Jacobs&show_icons=true&locale=en&layout=compact" alt="ArdenJacobs" width="50%"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arden-Jacobs&show_icons=true&locale=en&layout=compact" alt="ArdenJacobs" width="38%"/>
 </p>
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/arden-jacobs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arden-Grahm-Jacobs" height="30" width="40" /></a>
