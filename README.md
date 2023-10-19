@@ -9,7 +9,7 @@
 ## Greetings World, It's Me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here+😉)](https://arden-dev.netlify.app/)
   
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/>   Learning everything based on Python
+- <img src="https://cdn.worldvectorlogo.com/logos/harvard-university.svg" alt="Harvard-CS50" width="20" height="20"/>   Learning everything from Harvard's online CS50 courses
 - 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
