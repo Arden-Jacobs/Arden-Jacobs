@@ -1,19 +1,17 @@
-- 👋 Hi, I’m Arden Graham Jacobs
-- 👀 I’m interested in anime, philosophy and video game's ...
-- 🌱 I’m currently learning CS50 ...
-- 💞️ I’m looking to collaborate on AI ...
-- 📫 How to reach me - ardengrahamjacobs@gmail.com ...
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Hello World, It's Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here+😉)](https://arden-dev.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here)](https://arden-dev.netlify.app/)
   
-- <img src="https://cdn.worldvectorlogo.com/logos/harvard-university.svg" alt="Harvard-CS50" width="20" height="20"/>   Learning everything from Harvard's online CS50 courses
-- 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` etc.
-- 📚 Learning everything about Frontend and Backend technologies 😉
+- <img src="https://cdn.worldvectorlogo.com/logos/harvard-university.svg" alt="Harvard-CS50" width="20" height="20"/>   Currently learning everything from Harvard's online CS50 courses.
+- 👨‍💻 I have mastered a range of web development technologies, including `JavaScript`, `VueJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` and more.
+- 📚 I have learned a lot about both frontend and backend technologies and am continually expanding my knowledge in these areas.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to listen to podcast on philosophy and business 🎧.
+- ⚡ Fun fact: I thoroughly enjoy listening to podcast on philosophy and business 🎧.
+- 👀 I have a strong interest in areas such as anime, philosophy, and video game development.
+- 💞️ I am actively seeking collaborative opportunities in the field of artificial intelligence (AI) .
+- 📫 For inquiries or to reach me, please contact me at ardengrahamjacobs@gmail.com .
 
 <a href="https://arden-dev.netlify.app/"><h3>👉🏼 Visit my portfolio 👈🏼</h3></a>
 
