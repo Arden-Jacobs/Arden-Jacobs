@@ -13,8 +13,6 @@
 - 💞️ I am actively seeking collaborative opportunities in the field of artificial intelligence (AI) .
 - 📫 For inquiries or to reach me, please contact me at ardengrahamjacobs@gmail.com .
 
-<a href="https://arden-dev.netlify.app/" target="blank"><h3>👉🏼 Visit my portfolio 👈🏼</h3></a>
-
 ---
 
 <h3 align="left">Github</h3>
