@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here)](https://arden-dev.netlify.app/)
   
 - <img src="https://cdn.worldvectorlogo.com/logos/harvard-university.svg" alt="Harvard-CS50" width="20" height="20"/>   Currently learning everything from Harvard's online CS50 courses.
-- 👨‍💻 I have mastered a range of web development technologies, including `JavaScript`, `VueJs`, `CSS`, `Wordpress`, `Python`, `Nodejs` and more.
+- 👨‍💻 I have mastered a range of web development technologies, including `JavaScript`, `VueJs`, `CSS`, `Wordpress`, `Python`, `Nodejs`, `React` and more.
 - 📚 I have learned a lot about both frontend and backend technologies and am continually expanding my knowledge in these areas.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I thoroughly enjoy listening to podcast on philosophy and business 🎧.
