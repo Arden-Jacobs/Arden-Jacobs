@@ -15,7 +15,6 @@
 
 ---
 
-
 <h3 align="left">Github</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arden-Jacobs&show_icons=true&locale=en&layout=compact" alt="ArdenJacobs" width="50%"/>
