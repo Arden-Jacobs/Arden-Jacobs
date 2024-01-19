@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I thoroughly enjoy listening to podcast on philosophy and business 🎧.
 - 👀 I have a strong interest in areas such as anime, philosophy, and video game development.
 - 💞️ I am actively seeking collaborative opportunities in the field of artificial intelligence (AI) .
-- 📫 For inquiries or to reach me, please contact me at ardengrahamjacobs@gmail.com .
+- 📫 For inquiries or to reach me or freelancing projects, please contact me at ardengrahamjacobs@gmail.com .
 
 ---
 
