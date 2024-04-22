@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Hello World, It's Me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arden+Graham+Jacobs;Junior+Software+Engineer;Visit+My+Portfolio;Click+Here)](https://arden-dev.netlify.app/)
